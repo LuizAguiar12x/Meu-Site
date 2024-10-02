@@ -1,3 +1,9 @@
-body {
-    background-color: black
-    color: white
+body { 
+    background-color: black;
+    color: white;
+    }
+
+ul {
+    display: flex;
+    justify-content: space-around;
+}
